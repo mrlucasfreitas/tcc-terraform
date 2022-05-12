@@ -14,7 +14,7 @@ subnet_az   = "us-east-1a"
 sg_name     = "sec-tcc-webserver"
 
 # Nome das instancias
-num_of_instances = "5"
+num_of_instances = "1"
 prefix_instance  = "ec2-tcc-webserver"
 prefix_eip       = "eip-tcc-webserver"
 prefix_interface = "eni-tcc-webserver"
